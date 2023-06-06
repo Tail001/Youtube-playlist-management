@@ -5,6 +5,7 @@
     - [申請](#申請)
     - [認證](#認證)
   - [Demo](#demo)
+  - [開始使用youtube api](#開始使用youtube-api)
 
 ## 創建自己的API
 
@@ -42,7 +43,11 @@ client_secrets_file = "your_file_name.json" #remember to change name here !
 
 ## Demo 
 
-**開始使用youtube api**
+礙於篇幅的關係，這邊我放一個PDF檔案，DEMO流程都在裡面!
+[PDF for demo !](./demo.pdf)
+
+
+## 開始使用youtube api
 
 * https://developers.google.com/youtube/v3/getting-started
 
