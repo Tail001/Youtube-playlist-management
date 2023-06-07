@@ -43,6 +43,13 @@ client_secrets_file = "your_file_name.json" #remember to change name here !
 
 ## Demo 
 
+前置作業，需要安裝這兩個模組:
+
+```
+pip install --upgrade google-api-python-client
+pip install --upgrade google-auth-oauthlib 
+```
+
 礙於篇幅的關係，這邊我放一個PDF檔案，DEMO流程都在裡面!
 
 [PDF for demo !](./demo.pdf)
